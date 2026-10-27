@@ -2,11 +2,11 @@
 GIST 604B Assignment 2: QGIS Desktop GIS Projects
 QGIS Fundamentals: Mapping and Spatial Analysis
 
-a. Overview
-        This repository documents my hands-on learning experience through a series of QGIS tutorials focused on fundamental Geographic Information System (GIS)           concepts and practical geospatial analysis. The exercises demonstrate essential workflows, including map creation, coordinate reference system
-        management, spatial data visualization, attribute analysis, and spatial queries. Through these tutorials, I developed practical experience working with
-        vector and raster datasets, importing external data, performing table and spatial joins, and producing informative maps. The repository serves as a
-        record of my technical development and a reference for applying open-source GIS tools to real-world geospatial projects.
+a. Overview: This repository documents my hands-on learning experience through a series of QGIS tutorials focused on fundamental Geographic Information System (GIS) concepts and practical geospatial analysis. The exercises demonstrate essential workflows, including map creation, coordinate reference system
+management, spatial data visualization, attribute analysis, and spatial queries. Through these tutorials, I developed practical experience working with
+vector and raster datasets, importing external data, performing table and spatial joins, and producing informative maps. The repository serves as a
+record of my technical development and a reference for applying open-source GIS tools to real-world geospatial projects.
+
 b. Software Environment
         •	GIS Software: QGIS 
         •	QGIS Version Used: 3.40.8
