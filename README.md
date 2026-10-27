@@ -14,10 +14,10 @@ b. Software Environment:
         •	Programming Language: No custom programming required
         •	Data Formats: Shapefile, GeoPackage, GeoJSON, CSV, and raster datasets
         •	GIS Processing Tools: QGIS Processing Toolbox, GDAL, and native QGIS algorithms
-        •	Plugins: No additional third-party plugins were identified as required for the nine listed tutorials. The exercises primarily use built-in QGIS tools 
-        and         processing algorithms.
-c. Completed Tutorials
-        The following tutorials were completed using the QGIS Tutorials and Tips learning resources.
+        •	Plugins: No additional third-party plugins were identified as required for the nine listed tutorials. The exercises primarily use built-in QGIS 
+                tools and processing algorithms.
+
+c. Completed Tutorials: The following tutorials were completed using the QGIS Tutorials and Tips learning resources.
         •	1. Making a Map
         •	2. Working with Projections 
         •	3. Working with Attributes 
@@ -28,8 +28,8 @@ c. Completed Tutorials
         •	8. Performing Spatial Joins 
         •	9. Performing Spatial Queries 
         •	10. Calculating Lines Lenght
-d. Skills Demonstrated
-        The tutorials provided practical experience in the following technical areas:
+
+d. Skills Demonstrated: The tutorials provided practical experience in the following technical areas:
         •	Map Design and Cartography: Creating map layouts, legends, scale bars, and professional map exports.
         •	Coordinate Reference Systems: Understanding geographic and projected CRS, EPSG identifiers, and reprojection.
         •	Spatial Data Management: Loading, organizing, and managing vector and raster datasets.
