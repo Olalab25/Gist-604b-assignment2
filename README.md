@@ -51,4 +51,3 @@ e. Reflection
         and geospatial data analysis, where integrating multiple datasets and identifying spatial relationships are essential. Overall, these exercises
         reinforced the value of QGIS as an accessible, open-source platform for producing reliable spatial analyses and communicating geographic information
         effectively.
-
