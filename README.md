@@ -7,7 +7,7 @@ management, spatial data visualization, attribute analysis, and spatial queries.
 vector and raster datasets, importing external data, performing table and spatial joins, and producing informative maps. The repository serves as a
 record of my technical development and a reference for applying open-source GIS tools to real-world geospatial projects.
 
-b. Software Environment
+b. Software Environment: 
         •	GIS Software: QGIS 
         •	QGIS Version Used: 3.40.8
         •	Operating System: Windows
